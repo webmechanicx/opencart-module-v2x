@@ -1,6 +1,6 @@
 ##It is a Hello World Module for latest version of OpenCart 2.2.x
 
-**Use it as a boilerplate when you are planning to develop extension for opencart.
+You can use this for learning or as a boilerplate to develop extension for opencart.
 
 
 ###How to install:
