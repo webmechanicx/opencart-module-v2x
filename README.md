@@ -1,4 +1,4 @@
-##It is a Hello World Module for latest version of OpenCart 2.2.x
+##It is a Hello World Module for the latest version of OpenCart 2.2.x
 
 You can use this for learning or as a boilerplate to develop extension for opencart.
 
