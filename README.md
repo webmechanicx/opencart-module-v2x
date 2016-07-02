@@ -1,6 +1,6 @@
 ##Hello World Module in the latest version of OpenCart 2.2.x
 
-You can use this for learning or as a boilerplate to develop extension for opencart.
+You can use this for learning or take it as a boilerplate to develop extension for opencart.
 
 
 ###How to install:
